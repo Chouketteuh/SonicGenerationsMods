@@ -47,6 +47,11 @@
             "DisplayName": "Rush Style",
             "Value": "rush_style",
             "Description": ["Status: Available (W.I.P.)"]
+         },
+         {
+            "DisplayName": "OlympGames 2012 Style",
+            "Value": "OG2012_style",
+            "Description": ["Status: Available (W.I.P.)"]
          }
          
       ],
